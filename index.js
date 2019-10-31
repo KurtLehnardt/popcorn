@@ -8,3 +8,4 @@ const corn = voiceMsg => {
 }
 
 pop("Kurt",  "hi")
+pop("test", "test")

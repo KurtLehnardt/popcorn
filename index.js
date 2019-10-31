@@ -1,3 +1,5 @@
+import modalTemplate from './templates/modals';
+
 const audio = './audio';
 
 const pop = (user, msg) => {
@@ -6,6 +8,7 @@ const pop = (user, msg) => {
 const corn = voiceMsg => {
   voiceMsg.record();
 }
+
 
 pop("Kurt",  "hi")
 pop("test", "test")

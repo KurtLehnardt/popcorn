@@ -1,6 +1,6 @@
 # popcorn
 
-The Instagram killer
+The Instagram Killer 
 
 Share authentically and discover people who uplift and inspire you.
 

@@ -12,10 +12,10 @@
     "registry": "https://npm.pkg.github.com/" 
   },
   "scripts": {
-    "start": "",
+    "start": "npm run ./test.js"
   },
   "dependencies": {
-    "ejs": "^3.1.4",
+    "ejs": "^3.1.4"
   },
   "engines": {
     "node": ">= 10.13.0"

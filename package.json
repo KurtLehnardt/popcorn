@@ -8,6 +8,9 @@
   "repository": "https://github.com/kurtlehnardt/popcorn.git",
   "homepage": "https://github.com/kurtlehnardt/popcorn",
   "bugs": "https://github.com/kurtlehnardt/popcorn/issues",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "scripts": {
     "start": "",
   },
